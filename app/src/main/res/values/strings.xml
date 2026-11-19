@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WordSpark</string>
+    <string name="app_tagline">Tap to conjure fresh words</string>
+    <string name="spark_button_label">Spark Words</string>
+    <string name="spark_single_button_label">Spark Word</string>
+    <string name="empty_stage_title">Ready to spark</string>
+    <string name="empty_stage_subtitle">Press the button below to reveal random words.</string>
+    <string name="history_title">Recent Sparks</string>
+    <string name="history_empty">Your word rolls will appear here</string>
+    <string name="clear_history">Clear</string>
+    <string name="copy_all">Copy all</string>
+    <string name="copied_single">Copied \"%1$s\"</string>
+    <string name="copied_batch">Copied %1$d words</string>
+    <string name="pin_word">Pin word</string>
+    <string name="unpin_word">Unpin word</string>
+    <string name="copy_word">Copy word</string>
+    <string name="words_count_label">Words per press</string>
+</resources>

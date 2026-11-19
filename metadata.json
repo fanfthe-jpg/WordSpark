@@ -1,0 +1,6 @@
+{
+  "name": "WordSpark",
+  "description": "Press a button to spark curated random words with tactile spring animations, category filters, word pinning, and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
